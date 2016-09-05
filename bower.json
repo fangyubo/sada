@@ -1,0 +1,20 @@
+{
+  "name": "fang",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "fang"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fangyubo/H5-",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Swiper": "swiper#^3.3.1"
+  }
+}
